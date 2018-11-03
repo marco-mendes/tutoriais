@@ -25,11 +25,10 @@ Para criar builds e rodar nossos projetos, podemos usar o Ionic CLI (Command Lin
 npm install -g ionic
 ```
 
-O Ionic requer que o Cordova crie os aplicativos para Android e iOS. Portanto instale o Cordova CLI também com:
-
+O Ionic requer que o Cordova crie os aplicativos para Android e iOS. Portanto instale o Cordova CLI também com o comando:
 
 ```console
 npm install -g cordova
 ```
 
-
+O teste básico de instalação é rodar
